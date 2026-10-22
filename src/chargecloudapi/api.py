@@ -15,6 +15,15 @@ operatorIDs = [
     OperatorID(name="Mainova", op_id="8eeab3ffd13953fdd566f88c6eba7d41"),
     OperatorID(name="CKW", op_id="745c4880d9f6def3cf402f90704cd11b"),
     OperatorID(name="WienEnergie", op_id="16551d48ed6c048085c5e8bccd34b0c7"),
+    OperatorId(name="MVV", op_id="5f703068922b9c5126799addfe67cf49"),
+    OperatorId(name="ChargeHere", op_id="e2ad37ea909458e05c85903bca759887"),
+    OperatorId(name="Sw Bruchsal", op_id="61b768170bfa8f58342e4565dd1cfffe"),
+    OperatorId(name="PGG Baden-Baden", op_id="e2443e01aba4e111a2bf632624065f6c"),
+    OperatorId(name="KraichgauEnergie", op_id="3f36f93f75957e2a9c8f1ebf440885d8"),
+    OperatorId(name="Sw Ettlingen", op_id="ee261e1e91797c2f50e829e2097352f3"),
+    OperatorId(name="Sw Weinheim", op_id="32852b696acfd0acd9b9c57fb571c94d"),
+    OperatorId(name="Sw Heidelberg", op_id="3b4c7688d588d18835ac6d1346714ce2"),
+    
 ]
 
 
